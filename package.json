@@ -1,0 +1,14 @@
+{
+    "name": "discord-tickets",
+    "main": "main.js",
+    "author": "Phaelis#0001",
+    "version": "1.0.0",
+    "repository": "https://github.com/Phaelis/Discord-Ticket-Bot",
+    "description": "Discord Ticket Botu",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "discord.js": "^13.13.1"
+    }
+}
